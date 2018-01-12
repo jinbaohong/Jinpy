@@ -3,18 +3,21 @@ from sklearn.cluster import MiniBatchKMeans
 import numpy as np
 import pandas as pd
 import csv
+import sys
 
 
+exhibitMainFile = str(sys.argv[1])
+queryFile = str(sys.argv[2])
+outputFile = str(sys.argv[3])
 
-my_data = pd.read_csv('data/exhibitMain1228.csv', encoding = "ISO-8859-1")
+my_data = pd.read_csv(exhibitMainFile, encoding = "ISO-8859-1")
 corpus = tuple(my_data['text'])
 tfidf = TfidfVectorizer(stop_words=None)
 print('Vectorizing...')
 tfs = tfidf.fit_transform(corpus)
 
-queryTable = pd.read_csv('data/Jetro1227.csv')
+queryTable = pd.read_csv(queryFile)
 
-outputFile = 'output/output1228_.csv'
 with open(outputFile, "a") as fp:
     wr = csv.writer(fp, dialect='excel', quotechar = '"')
     wr.writerow(['dataId', 'query', 'mainText', 'showId', 'Score', 'ScoreStd'])
