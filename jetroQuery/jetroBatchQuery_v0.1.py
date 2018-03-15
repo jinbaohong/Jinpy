@@ -10,6 +10,7 @@ from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.stem import SnowballStemmer  
 import sys
+import time
 
 
 def containTerm(term, mainResult):
@@ -147,6 +148,7 @@ with open(outputFile, "w") as fp:
                  'hit2',
                  'hitw2',
                  'contain_hit2'])
+start_time = time.time()
 for index in range(len(queryTable)):
     print('Querying %d...' % index)
     dataId = queryTable.loc[index]['dataId']
@@ -156,7 +158,7 @@ for index in range(len(queryTable)):
     with open(outputFile, "a") as fp:
         wr = csv.writer(fp, dialect='excel', quotechar = '"')
         wr.writerow(tmpList)
-
+print("--- %s seconds ---" % (time.time() - start_time))
 
 
 # In[ ]:
