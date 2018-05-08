@@ -1,0 +1,7 @@
+{% url 'home' %}
+<ul>
+{% for i in TutorialList1 %}
+<li>{{ i }}</li>
+{% endfor %}
+</ul>
+\nsite: {{ info_dict.site }}  content: {{ info_dict.content}}
