@@ -1,0 +1,1286 @@
+{
+   "checksum": "4038c6d0bc1bace795b792b4cf38ea9c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13119688676857936",
+            "id": "6",
+            "name": "首頁",
+            "sync_transaction_version": "36",
+            "type": "url",
+            "url": "https://km.taitra.org.tw/SmartKMS/dashboard/View.action?public=true"
+         }, {
+            "date_added": "13119690420754727",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13138418563553321"
+            },
+            "name": "TAITRA Webmail Log In",
+            "sync_transaction_version": "368",
+            "type": "url",
+            "url": "https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwinoYHxurbPAhULnZQKHdF2DrwQFggaMAA&url=https%3A%2F%2Fwebmail.taitra.org.tw%2F&usg=AFQjCNFrTcd-G44-IjqBqJX77cE-E-hbEw&sig2=AlchPV0sIy79zYV_wRj_Mw"
+         }, {
+            "date_added": "13120101131322444",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13160122924640785"
+            },
+            "name": "Data API (v2) | UN Comtrade: International Trade Statistics",
+            "sync_transaction_version": "865",
+            "type": "url",
+            "url": "http://comtrade.un.org/data/doc/api/"
+         }, {
+            "date_added": "13124336454492218",
+            "id": "11",
+            "name": "TAITRA iTBD beta (0.1.2)",
+            "sync_transaction_version": "1113",
+            "type": "url",
+            "url": "https://taitra-itbd.shinyapps.io/beta/"
+         }, {
+            "date_added": "13124444828016677",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13150279683269218"
+            },
+            "name": "http://sastoyou.taitra.org.tw:80/SASVisualAnalyticsHub",
+            "sync_transaction_version": "688",
+            "type": "url",
+            "url": "http://sastoyou.taitra.org.tw/SASVisualAnalyticsHub"
+         }, {
+            "date_added": "13125483785987628",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13171368758715977"
+            },
+            "name": "Flowchart Maker & Online Diagram Software",
+            "sync_transaction_version": "1057",
+            "type": "url",
+            "url": "https://www.draw.io/"
+         }, {
+            "date_added": "13125488577730107",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13156567284928619"
+            },
+            "name": "Word Cloud - Edit - Tagul",
+            "sync_transaction_version": "793",
+            "type": "url",
+            "url": "https://tagul.com/create"
+         }, {
+            "date_added": "13125555506379317",
+            "id": "30",
+            "name": "Kernel tricks and nonlinear dimensionality reduction via RBF kernel PCA",
+            "sync_transaction_version": "22",
+            "type": "url",
+            "url": "http://sebastianraschka.com/Articles/2014_kernel_pca.html#appendix-a-projecting-new-data"
+         }, {
+            "date_added": "13125562712087464",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13167904155213966"
+            },
+            "name": "machine learning - How to understand the drawbacks of K-means - Cross Validated",
+            "sync_transaction_version": "1005",
+            "type": "url",
+            "url": "http://stats.stackexchange.com/questions/133656/how-to-understand-the-drawbacks-of-k-means#133656"
+         }, {
+            "date_added": "13125664754607236",
+            "id": "34",
+            "name": "計算理論 · 把數學程式化 -- 使用 JavaScript 的 Rlab 套件",
+            "sync_transaction_version": "31",
+            "type": "url",
+            "url": "https://ccckmit.gitbooks.io/rlab/content/computable.html"
+         }, {
+            "date_added": "13126092907294852",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13165996859723126"
+            },
+            "name": "浅说机器学习中“迭代法” - zouxy09的专栏 - 博客频道 - CSDN.NET",
+            "sync_transaction_version": "956",
+            "type": "url",
+            "url": "http://blog.csdn.net/zouxy09/article/details/8537872"
+         }, {
+            "date_added": "13128768801216205",
+            "id": "40",
+            "name": "R 語言的 parallel 多核心運算 – Stranity Blog",
+            "sync_transaction_version": "43",
+            "type": "url",
+            "url": "https://blog.stranity.com.tw/2016/10/03/r-%e8%aa%9e%e8%a8%80%e7%9a%84-parallel-%e5%a4%9a%e6%a0%b8%e5%bf%83%e9%81%8b%e7%ae%97/"
+         }, {
+            "date_added": "13155389759825921",
+            "id": "229",
+            "meta_info": {
+               "last_visited_desktop": "13174128128463792"
+            },
+            "name": "SCSHR",
+            "sync_transaction_version": "1121",
+            "type": "url",
+            "url": "https://am.taitra.org.tw/SCSWeb/Login.aspx?ParentUniqueGUID=16bc63e9-d165-4d7a-957e-6e75b57bf1b5"
+         }, {
+            "date_added": "13129020212593345",
+            "id": "43",
+            "name": "用R進行中文 text Mining",
+            "sync_transaction_version": "45",
+            "type": "url",
+            "url": "http://rstudio-pubs-static.s3.amazonaws.com/12422_b2b48bb2da7942acaca5ace45bd8c60c.html"
+         }, {
+            "date_added": "13129020401300460",
+            "id": "44",
+            "name": "R语言·文本挖掘︱Rwordseg/rJava两包的安装（安到吐血） - 素质云笔记/Recorder... - 博客频道 - CSDN.NET",
+            "sync_transaction_version": "705",
+            "type": "url",
+            "url": "http://blog.csdn.net/sinat_26917383/article/details/50867851"
+         }, {
+            "date_added": "13129262461385321",
+            "id": "47",
+            "name": "Derivation of closed form lasso solution - Cross Validated",
+            "sync_transaction_version": "51",
+            "type": "url",
+            "url": "http://stats.stackexchange.com/questions/17781/derivation-of-closed-form-lasso-solution"
+         }, {
+            "date_added": "13129263249208852",
+            "id": "48",
+            "name": "L18-Lasso.pdf",
+            "sync_transaction_version": "54",
+            "type": "url",
+            "url": "https://www.cs.utah.edu/~jeffp/teaching/cs5955/L18-Lasso.pdf"
+         }, {
+            "date_added": "13129636963330351",
+            "id": "51",
+            "name": "数学 – 刘未鹏 | Mind Hacks",
+            "sync_transaction_version": "57",
+            "type": "url",
+            "url": "http://mindhacks.cn/topics/math/"
+         }, {
+            "date_added": "13129697101794318",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13134097055486634"
+            },
+            "name": "4G Spaces",
+            "sync_transaction_version": "193",
+            "type": "url",
+            "url": "https://blog.youxu.info/"
+         }, {
+            "date_added": "13130843245044655",
+            "id": "57",
+            "meta_info": {
+               "last_visited_desktop": "13132282041723440"
+            },
+            "name": "如何解决机器学习中数据不平衡问题 | ZHAOKV",
+            "sync_transaction_version": "129",
+            "type": "url",
+            "url": "http://www.zhaokv.com/2016/01/learning-from-imbalanced-data.html"
+         }, {
+            "date_added": "13130926905302021",
+            "id": "60",
+            "name": "AdaBoost笔记 | 何声欢的博客",
+            "sync_transaction_version": "65",
+            "type": "url",
+            "url": "http://heshenghuan.github.io/2016/01/17/AdaBoost%E7%AC%94%E8%AE%B0/"
+         }, {
+            "date_added": "13131086166951357",
+            "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13131418160948686"
+            },
+            "name": "r - An example: LASSO regression using glmnet for binary outcome - Cross Validated",
+            "sync_transaction_version": "84",
+            "type": "url",
+            "url": "http://stats.stackexchange.com/questions/72251/an-example-lasso-regression-using-glmnet-for-binary-outcome"
+         }, {
+            "date_added": "13131192041892948",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13131418152885968"
+            },
+            "name": "Reusing a Model Built in R - Stack Overflow",
+            "sync_transaction_version": "89",
+            "type": "url",
+            "url": "http://stackoverflow.com/questions/5118074/reusing-a-model-built-in-r"
+         }, {
+            "date_added": "13131509549951659",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13131509549952277"
+            },
+            "name": "数据科学中的R和Python: 用glmnet包实施套索算法(LASSO)",
+            "sync_transaction_version": "93",
+            "type": "url",
+            "url": "http://xccds1977.blogspot.tw/2012/05/glmnetlasso.html"
+         }, {
+            "date_added": "13131513024326510",
+            "id": "70",
+            "meta_info": {
+               "last_visited_desktop": "13131513024327271"
+            },
+            "name": "A Complete Tutorial on Ridge and Lasso Regression in Python",
+            "sync_transaction_version": "932",
+            "type": "url",
+            "url": "https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/"
+         }, {
+            "date_added": "13131593059946134",
+            "id": "73",
+            "meta_info": {
+               "last_visited_desktop": "13131763778567403"
+            },
+            "name": "RPubs - R筆記–(7)主成份分析(2012美國職棒MLB)",
+            "sync_transaction_version": "852",
+            "type": "url",
+            "url": "http://www.rpubs.com/skydome20/R-Note7-PCA"
+         }, {
+            "date_added": "13131602650384555",
+            "id": "74",
+            "meta_info": {
+               "last_visited_desktop": "13165060075056669"
+            },
+            "name": "Converting data between wide and long format",
+            "sync_transaction_version": "948",
+            "type": "url",
+            "url": "http://www.cookbook-r.com/Manipulating_data/Converting_data_between_wide_and_long_format/"
+         }, {
+            "date_added": "13131875927590390",
+            "id": "77",
+            "meta_info": {
+               "last_visited_desktop": "13139570652004839"
+            },
+            "name": "Fw: [筆記] R的字串處理 - 看板 R_Language - 批踢踢實業坊",
+            "sync_transaction_version": "437",
+            "type": "url",
+            "url": "https://www.ptt.cc/bbs/R_Language/M.1364646786.A.452.html"
+         }, {
+            "date_added": "13132198407567422",
+            "id": "80",
+            "meta_info": {
+               "last_visited_desktop": "13132198407567694"
+            },
+            "name": "6月份 Taiwan R User Group 講題分享: 獨立成份分析(Independent Component Analysis)",
+            "sync_transaction_version": "128",
+            "type": "url",
+            "url": "http://rstudio-pubs-static.s3.amazonaws.com/6647_8207a22397984ba4a8196ab48b4b12e2.html"
+         }, {
+            "date_added": "13132291731211379",
+            "id": "83",
+            "meta_info": {
+               "last_visited_desktop": "13132801372821177"
+            },
+            "name": "StackEdit – Editor",
+            "sync_transaction_version": "150",
+            "type": "url",
+            "url": "https://stackedit.io/editor"
+         }, {
+            "date_added": "13132379673383464",
+            "id": "84",
+            "meta_info": {
+               "last_visited_desktop": "13132800514665122"
+            },
+            "name": "Neurons (Activation Functions) — Mocha 0.1.2 documentation",
+            "sync_transaction_version": "148",
+            "type": "url",
+            "url": "http://mochajl.readthedocs.io/en/latest/user-guide/neuron.html"
+         }, {
+            "date_added": "13132388917634651",
+            "id": "85",
+            "meta_info": {
+               "last_visited_desktop": "13155356422573113"
+            },
+            "name": "Russell Stewart",
+            "sync_transaction_version": "755",
+            "type": "url",
+            "url": "http://russellsstewart.com/blog/0"
+         }, {
+            "date_added": "13132391964006194",
+            "id": "86",
+            "meta_info": {
+               "last_visited_desktop": "13132391964006695"
+            },
+            "name": "Neural Networks, Manifolds, and Topology -- colah's blog",
+            "sync_transaction_version": "147",
+            "type": "url",
+            "url": "http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/"
+         }, {
+            "date_added": "13132807806512616",
+            "id": "89",
+            "meta_info": {
+               "last_visited_desktop": "13132899944243466"
+            },
+            "name": "登入您的帳戶",
+            "sync_transaction_version": "156",
+            "type": "url",
+            "url": "https://login.microsoftonline.com/1e60a43e-b414-4c11-95e6-ffd35bcc52d0/wsfed?wa=wsignin1.0&wtrealm=https%3a%2f%2ftaitraebs.crm7.dynamics.com%2f&wctx=pr%3dwsfederation%26rm%3dhttps%253a%252f%252ftaitraebs.crm7.dynamics.com%252f%26ry%3dhttps%253a%252f%252ftaitraebs.crm7.dynamics.com%252fmain.aspx&wct=2017-03-01T02%3a10%3a38Z&wreply=https%3a%2f%2fcloudredirector.crm7.dynamics.com%3a443%2fG%2fAuthRedirect%2fIndex.aspx%3fRedirectTo%3dhttps%253a%252f%252ftaitraebs.crm7.dynamics.com%252fmain.aspx"
+         }, {
+            "date_added": "13133336992756433",
+            "id": "92",
+            "meta_info": {
+               "last_visited_desktop": "13136269976401868"
+            },
+            "name": "中国科技论文在线",
+            "sync_transaction_version": "277",
+            "type": "url",
+            "url": "http://www.paper.edu.cn/releasepaper/onelevel/520.html"
+         }, {
+            "date_added": "13133338289884505",
+            "id": "93",
+            "meta_info": {
+               "last_visited_desktop": "13134097066402074"
+            },
+            "name": "【免費好康大爆料】想搞懂機器學習、網路安全先別衝動買課程！這有 42 個資源能讓你自學成為專業 | TechOrange",
+            "sync_transaction_version": "847",
+            "type": "url",
+            "url": "https://buzzorange.com/techorange/2017/01/23/cyber-security-and-deep-learning-resources/"
+         }, {
+            "date_added": "13133515008431934",
+            "id": "96",
+            "meta_info": {
+               "last_visited_desktop": "13133515749928116"
+            },
+            "name": "chapter1.pdf",
+            "sync_transaction_version": "178",
+            "type": "url",
+            "url": "https://ayorho.files.wordpress.com/2011/05/chapter1.pdf"
+         }, {
+            "date_added": "13133842217307089",
+            "id": "99",
+            "meta_info": {
+               "last_visited_desktop": "13133842217307675"
+            },
+            "name": "真正從零開始，TensorFlow安裝入門教程！（圖文版） | 香港矽谷",
+            "sync_transaction_version": "184",
+            "type": "url",
+            "url": "http://www.hksilicon.com/articles/1106629"
+         }, {
+            "date_added": "13134016382592078",
+            "id": "102",
+            "meta_info": {
+               "last_visited_desktop": "13136861254725124"
+            },
+            "name": "Visual Information Theory -- colah's blog",
+            "sync_transaction_version": "298",
+            "type": "url",
+            "url": "http://colah.github.io/posts/2015-09-Visual-Information/"
+         }, {
+            "date_added": "13134108367644018",
+            "id": "105",
+            "meta_info": {
+               "last_visited_desktop": "13144731697760323"
+            },
+            "name": "Import/Export data to and from xlsx files | R-bloggers",
+            "sync_transaction_version": "692",
+            "type": "url",
+            "url": "https://www.r-bloggers.com/importexport-data-to-and-from-xlsx-files/"
+         }, {
+            "date_added": "13134445686191333",
+            "id": "108",
+            "meta_info": {
+               "last_visited_desktop": "13135934545241164"
+            },
+            "name": "regex function | R Documentation",
+            "sync_transaction_version": "268",
+            "type": "url",
+            "url": "https://www.rdocumentation.org/packages/base/versions/3.3.1/topics/regex"
+         }, {
+            "date_added": "13134531856404919",
+            "id": "109",
+            "meta_info": {
+               "last_visited_desktop": "13142919984623829"
+            },
+            "name": "Text mining and word cloud fundamentals in R : 5 simple steps you should know | R-bloggers",
+            "sync_transaction_version": "693",
+            "type": "url",
+            "url": "https://www.r-bloggers.com/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know/"
+         }, {
+            "date_added": "13134533032456207",
+            "id": "110",
+            "meta_info": {
+               "last_visited": "13159372595055231",
+               "last_visited_desktop": "13157788923904636"
+            },
+            "name": "RPubs - R筆記--(6)關聯式規則；決策樹(分析鐵達尼號資料)",
+            "sync_transaction_version": "849",
+            "type": "url",
+            "url": "http://www.rpubs.com/skydome20/R-Note6-Apriori-DecisionTree"
+         }, {
+            "date_added": "13134639501290098",
+            "id": "113",
+            "meta_info": {
+               "last_visited_desktop": "13134639501290854"
+            },
+            "name": "如何用 Python 中的 NLTK 对中文进行分析和处理？ - 知乎",
+            "sync_transaction_version": "225",
+            "type": "url",
+            "url": "https://www.zhihu.com/question/20922994"
+         }, {
+            "date_added": "13135249620836210",
+            "id": "116",
+            "meta_info": {
+               "last_visited_desktop": "13135327882717051"
+            },
+            "name": "windows XP&7 安裝 oracle instant client 與odbc設定 | cp293900程序員",
+            "sync_transaction_version": "246",
+            "type": "url",
+            "url": "https://cp293900.wordpress.com/2011/11/11/windows-xp7-%E5%AE%89%E8%A3%9D-oracle-instant-client-%E8%88%87odbc%E8%A8%AD%E5%AE%9A/"
+         }, {
+            "date_added": "13135253013293295",
+            "id": "117",
+            "meta_info": {
+               "last_visited_desktop": "13151038021609274"
+            },
+            "name": "Oracle R Technologies",
+            "sync_transaction_version": "696",
+            "type": "url",
+            "url": "https://blogs.oracle.com/R/"
+         }, {
+            "date_added": "13135325345007895",
+            "id": "118",
+            "meta_info": {
+               "last_visited_desktop": "13135325345009070"
+            },
+            "name": "七分鐘概覽 R Tools for Visual Studio | 進擊的【開發工具】：打造登峰造極的 Code | Channel 9",
+            "sync_transaction_version": "245",
+            "type": "url",
+            "url": "https://channel9.msdn.com/Series/ericsk-vsfamily/rtvstw-overview#time=05m25s"
+         }, {
+            "date_added": "13135329824454558",
+            "id": "119",
+            "meta_info": {
+               "last_visited_desktop": "13135844697635212"
+            },
+            "name": "環境變數（Environment Variable） | 命令列及環境變數教學",
+            "sync_transaction_version": "261",
+            "type": "url",
+            "url": "https://shaochien.gitbooks.io/command-line-and-environment-variable-tutorial/content/environment-variable.html"
+         }, {
+            "date_added": "13135336059719553",
+            "id": "120",
+            "meta_info": {
+               "last_visited_desktop": "13164343724027049"
+            },
+            "name": "Oracle Instant Client安裝 - 黑暗執行緒",
+            "sync_transaction_version": "931",
+            "type": "url",
+            "url": "http://blog.darkthread.net/post-2009-09-15-setup-oracle-instant-client.aspx"
+         }, {
+            "date_added": "13135336075359222",
+            "id": "121",
+            "meta_info": {
+               "last_visited_desktop": "13164343648996140"
+            },
+            "name": "在 Windows 中安裝 Oracle Client",
+            "sync_transaction_version": "930",
+            "type": "url",
+            "url": "https://poychang.github.io/oracle-client-windows/"
+         }, {
+            "date_added": "13135846422710871",
+            "id": "122",
+            "meta_info": {
+               "last_visited_desktop": "13135846422711697"
+            },
+            "name": "[译]27 个Jupyter Notebook的小提示与技巧 - Focus on ML & DM",
+            "sync_transaction_version": "264",
+            "type": "url",
+            "url": "http://liuchengxu.org/pelican-blog/jupyter-notebook-tips.html"
+         }, {
+            "date_added": "13135856054256265",
+            "id": "123",
+            "meta_info": {
+               "last_visited_desktop": "13136022356845718"
+            },
+            "name": "大家來學VIM（一個歷久彌新的編輯器）[三]",
+            "sync_transaction_version": "274",
+            "type": "url",
+            "url": "http://www.study-area.org/tips/vim/Vim-3.html"
+         }, {
+            "date_added": "13136016219440164",
+            "id": "124",
+            "meta_info": {
+               "last_visited_desktop": "13141876346616501"
+            },
+            "name": "Wiki - vimrc設定教學",
+            "sync_transaction_version": "565",
+            "type": "url",
+            "url": "http://wiki.csie.ncku.edu.tw/vim/vimrc"
+         }, {
+            "date_added": "13136352275286640",
+            "id": "127",
+            "meta_info": {
+               "last_visited_desktop": "13136352275287217"
+            },
+            "name": "Ipython kernel error after uninstalling anaconda - Stack Overflow",
+            "sync_transaction_version": "281",
+            "type": "url",
+            "url": "http://stackoverflow.com/questions/35697794/ipython-kernel-error-after-uninstalling-anaconda"
+         }, {
+            "date_added": "13136436307611684",
+            "id": "128",
+            "meta_info": {
+               "last_visited_desktop": "13136436307612563"
+            },
+            "name": "关于python的类 - 卖小孩的咖啡 - 博客频道 - CSDN.NET",
+            "sync_transaction_version": "706",
+            "type": "url",
+            "url": "http://blog.csdn.net/zhzhji440/article/details/42615175"
+         }, {
+            "date_added": "13136437974673195",
+            "id": "129",
+            "meta_info": {
+               "last_visited_desktop": "13136437974674367"
+            },
+            "name": "【译】潜在语义分析Latent Semantic Analysis (LSA) - 卖小孩的咖啡 - 博客频道 - CSDN.NET",
+            "sync_transaction_version": "707",
+            "type": "url",
+            "url": "http://blog.csdn.net/zhzhji440/article/details/47193731"
+         }, {
+            "date_added": "13136443272518295",
+            "id": "130",
+            "meta_info": {
+               "last_visited_desktop": "13136443272518970"
+            },
+            "name": "特征值分解、奇异值分解、PCA概念整理 - 程序园",
+            "sync_transaction_version": "293",
+            "type": "url",
+            "url": "http://www.voidcn.com/blog/u011584941/article/p-5800374.html"
+         }, {
+            "date_added": "13136449486235770",
+            "id": "131",
+            "meta_info": {
+               "last_visited_desktop": "13136449486236757"
+            },
+            "name": "u011584941的个人主页 - Lai18.com IT技术文章收藏夹",
+            "sync_transaction_version": "297",
+            "type": "url",
+            "url": "http://www.lai18.com/user/987600.html?id=987600&p=1"
+         }, {
+            "date_added": "13136864375062907",
+            "id": "134",
+            "meta_info": {
+               "last_visited_desktop": "13136865328235605"
+            },
+            "name": "第一章 简介和安装 - D3.js 入门教程 - 极客学院Wiki",
+            "sync_transaction_version": "303",
+            "type": "url",
+            "url": "http://wiki.jikexueyuan.com/project/d3wiki/introduction.html"
+         }, {
+            "date_added": "13136976239945244",
+            "id": "138",
+            "meta_info": {
+               "last_visited_desktop": "13136976239945633"
+            },
+            "name": "数据可视化 - 司机大傻 - 博客频道 - CSDN.NET",
+            "sync_transaction_version": "708",
+            "type": "url",
+            "url": "http://blog.csdn.net/zhang__tianxu/article/category/1623437"
+         }, {
+            "date_added": "13137466927397558",
+            "id": "141",
+            "meta_info": {
+               "last_visited_desktop": "13138157429308334"
+            },
+            "name": "Install ROracle on Linux – thraxys",
+            "sync_transaction_version": "331",
+            "type": "url",
+            "url": "https://thraxys.wordpress.com/2016/10/25/install-roracle-on-linux/"
+         }, {
+            "date_added": "13137473434029381",
+            "id": "142",
+            "meta_info": {
+               "last_visited_desktop": "13137476390585939"
+            },
+            "name": "Passing arguments to an R script from command lines | R-bloggers",
+            "sync_transaction_version": "694",
+            "type": "url",
+            "url": "https://www.r-bloggers.com/passing-arguments-to-an-r-script-from-command-lines/"
+         }, {
+            "date_added": "13138157819757984",
+            "id": "145",
+            "meta_info": {
+               "last_visited_desktop": "13138256046928013"
+            },
+            "name": "Downloads | Natural Earth",
+            "sync_transaction_version": "343",
+            "type": "url",
+            "url": "http://www.naturalearthdata.com/downloads/"
+         }, {
+            "date_added": "13138158713926615",
+            "id": "146",
+            "name": "mapshaper",
+            "sync_transaction_version": "1113",
+            "type": "url",
+            "url": "http://mapshaper.org/"
+         }, {
+            "date_added": "13138334369734954",
+            "id": "147",
+            "meta_info": {
+               "last_visited_desktop": "13138334369735585"
+            },
+            "name": "tianxuzhang/d3.v4-API-Translation: D3.js 4.x 中文手册",
+            "sync_transaction_version": "347",
+            "type": "url",
+            "url": "https://github.com/tianxuzhang/d3.v4-API-Translation"
+         }, {
+            "date_added": "13138335482279043",
+            "id": "148",
+            "meta_info": {
+               "last_visited_desktop": "13138335482279545"
+            },
+            "name": "Search the Blocks",
+            "sync_transaction_version": "351",
+            "type": "url",
+            "url": "http://blockbuilder.org/search"
+         }, {
+            "date_added": "13138335622411488",
+            "id": "149",
+            "meta_info": {
+               "last_visited_desktop": "13138335629592618"
+            },
+            "name": "Gallery · d3/d3 Wiki",
+            "sync_transaction_version": "356",
+            "type": "url",
+            "url": "https://github.com/d3/d3/wiki/Gallery"
+         }, {
+            "date_added": "13138337646586618",
+            "id": "150",
+            "meta_info": {
+               "last_visited_desktop": "13138337646587168"
+            },
+            "name": "Google Analytics 網站流量分析 - Startdo",
+            "sync_transaction_version": "360",
+            "type": "url",
+            "url": "http://www.startdo.tw/all-google-analytics-post/"
+         }, {
+            "date_added": "13138356030650614",
+            "id": "151",
+            "meta_info": {
+               "last_visited_desktop": "13138356030651175"
+            },
+            "name": "Google Analytics 基礎教學 | Harris先生 - Page 2",
+            "sync_transaction_version": "365",
+            "type": "url",
+            "url": "http://www.yesharris.com/category/google-analytics-basic/page/2/"
+         }, {
+            "date_added": "13138357945631260",
+            "id": "152",
+            "meta_info": {
+               "last_visited_desktop": "13139547611619313"
+            },
+            "name": "良葛格學習筆記",
+            "sync_transaction_version": "436",
+            "type": "url",
+            "url": "https://openhome.cc/Gossip/"
+         }, {
+            "date_added": "13138707121236978",
+            "id": "153",
+            "meta_info": {
+               "last_visited_desktop": "13166701735903864"
+            },
+            "name": "Using Google Analytics with R  |  Analytics Implementation Guides and Solutions  |  Google Developers",
+            "sync_transaction_version": "982",
+            "type": "url",
+            "url": "https://developers.google.com/analytics/solutions/r-google-analytics"
+         }, {
+            "date_added": "13138763263164495",
+            "id": "154",
+            "meta_info": {
+               "last_visited_desktop": "13166701752937638"
+            },
+            "name": "Query Your Google Analytics Data from R | RGoogleAnalytics Library",
+            "sync_transaction_version": "983",
+            "type": "url",
+            "url": "http://www.tatvic.com/r-google-analytics-library/"
+         }, {
+            "date_added": "13138764782086702",
+            "id": "155",
+            "meta_info": {
+               "last_visited_desktop": "13166701762697251"
+            },
+            "name": "How to extract Google Analytics data in R using RGoogleAnalytics - Tatvic Blog",
+            "sync_transaction_version": "985",
+            "type": "url",
+            "url": "http://www.tatvic.com/blog/google-analytics-data-extraction-in-r/"
+         }, {
+            "date_added": "13138772722591219",
+            "id": "156",
+            "meta_info": {
+               "last_visited_desktop": "13166701782578322"
+            },
+            "name": "Dimensions & Metrics Explorer  |  Analytics Reporting API v4  |  Google Developers",
+            "sync_transaction_version": "987",
+            "type": "url",
+            "url": "https://developers.google.com/analytics/devguides/reporting/core/dimsmets#mode=api"
+         }, {
+            "date_added": "13138858694321936",
+            "id": "157",
+            "meta_info": {
+               "last_visited_desktop": "13139547589201532"
+            },
+            "name": "d3/d3-hierarchy: 2D layout algorithms for visualizing hierarchical data.",
+            "sync_transaction_version": "435",
+            "type": "url",
+            "url": "https://github.com/d3/d3-hierarchy#stratify"
+         }, {
+            "date_added": "13138861342738392",
+            "id": "158",
+            "meta_info": {
+               "last_visited_desktop": "13139910040259222"
+            },
+            "name": "阿舍的隨手記記、隨手寫寫...: Ubuntu 教學",
+            "sync_transaction_version": "456",
+            "type": "url",
+            "url": "http://www.arthurtoday.com/p/ubuntu-tutorial.html"
+         }, {
+            "date_added": "13138940882719263",
+            "id": "159",
+            "meta_info": {
+               "last_visited_desktop": "13138940882719999"
+            },
+            "name": "如何在Ubuntu 14.04上安裝和配置Apache @ MIS記事本 :: 隨意窩 Xuite日誌",
+            "sync_transaction_version": "408",
+            "type": "url",
+            "url": "http://blog.xuite.net/hcc0110/vbdir/251189863-%E5%A6%82%E4%BD%95%E5%9C%A8Ubuntu+14.04%E4%B8%8A%E5%AE%89%E8%A3%9D%E5%92%8C%E9%85%8D%E7%BD%AEApache"
+         }, {
+            "date_added": "13138948081124218",
+            "id": "160",
+            "meta_info": {
+               "last_visited_desktop": "13138948081125004"
+            },
+            "name": "[分享]Linux為 Host OS的VirtualBox橋接模式設定 [論壇 - 新手村] | Ubuntu 正體中文站",
+            "sync_transaction_version": "412",
+            "type": "url",
+            "url": "https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=12402"
+         }, {
+            "date_added": "13139286627065514",
+            "id": "163",
+            "meta_info": {
+               "last_visited_desktop": "13139286627066051"
+            },
+            "name": "Nginx开发从入门到精通 — Nginx开发从入门到精通",
+            "sync_transaction_version": "416",
+            "type": "url",
+            "url": "http://tengine.taobao.org/book/"
+         }, {
+            "date_added": "13139378012623767",
+            "id": "164",
+            "meta_info": {
+               "last_visited_desktop": "13139378012624346"
+            },
+            "name": "奇虎360技术博客 – 分享奇虎360公司的技术，与安全的互联网共同成长。",
+            "sync_transaction_version": "425",
+            "type": "url",
+            "url": "http://blogs.360.cn/"
+         }, {
+            "date_added": "13139471976880043",
+            "id": "165",
+            "meta_info": {
+               "last_visited_desktop": "13139471976880388"
+            },
+            "name": "jQuery API 中文文档(适用jQuery 1.0 - jQuery 3.1)",
+            "sync_transaction_version": "431",
+            "type": "url",
+            "url": "http://www.css88.com/jqapi-1.9/"
+         }, {
+            "date_added": "13139631361818782",
+            "id": "166",
+            "meta_info": {
+               "last_visited_desktop": "13139631361819382"
+            },
+            "name": "How to Install and Configure PHP 7.0 or PHP 7.1 on Ubuntu 16.04 - Vultr.com",
+            "sync_transaction_version": "441",
+            "type": "url",
+            "url": "https://www.vultr.com/docs/how-to-install-and-configure-php-70-or-php-71-on-ubuntu-16-04"
+         }, {
+            "date_added": "13139635469098569",
+            "id": "167",
+            "meta_info": {
+               "last_visited_desktop": "13139635469099095"
+            },
+            "name": "Installing Nginx with PHP 7 and MySQL 5.7 (LEMP) on Ubuntu 16.04 LTS",
+            "sync_transaction_version": "445",
+            "type": "url",
+            "url": "https://www.howtoforge.com/tutorial/installing-nginx-with-php7-fpm-and-mysql-on-ubuntu-16.04-lts-lemp/"
+         }, {
+            "date_added": "13139651801303060",
+            "id": "168",
+            "meta_info": {
+               "last_visited_desktop": "13139651801303578"
+            },
+            "name": "精通D3.js - 目录",
+            "sync_transaction_version": "449",
+            "type": "url",
+            "url": "http://www.ourd3js.com/src/book/d3src/index.html"
+         }, {
+            "date_added": "13139888875534749",
+            "id": "169",
+            "meta_info": {
+               "last_visited_desktop": "13139908357970346"
+            },
+            "name": "Postfix - Community Help Wiki",
+            "sync_transaction_version": "455",
+            "type": "url",
+            "url": "https://help.ubuntu.com/community/Postfix"
+         }, {
+            "date_added": "13139978443343625",
+            "id": "170",
+            "meta_info": {
+               "last_visited_desktop": "13139978443344091"
+            },
+            "name": "PHPMailer tutorial for SMTP and GMail | Web Development Blog",
+            "sync_transaction_version": "459",
+            "type": "url",
+            "url": "http://www.web-development-blog.com/archives/send-e-mail-messages-via-smtp-with-phpmailer-and-gmail/"
+         }, {
+            "date_added": "13139991152775508",
+            "id": "171",
+            "meta_info": {
+               "last_visited_desktop": "13139991152775883"
+            },
+            "name": "UI-Patterns.com",
+            "sync_transaction_version": "463",
+            "type": "url",
+            "url": "http://ui-patterns.com/"
+         }, {
+            "date_added": "13140081868297014",
+            "id": "172",
+            "meta_info": {
+               "last_visited_desktop": "13140081868297666"
+            },
+            "name": "D3.js Tips and Tricks: Formatting data for Sankey diagrams in d3.js",
+            "sync_transaction_version": "467",
+            "type": "url",
+            "url": "http://www.d3noob.org/2013/02/formatting-data-for-sankey-diagrams-in.html"
+         }, {
+            "date_added": "13140084296448014",
+            "id": "173",
+            "meta_info": {
+               "last_visited_desktop": "13140084296448497"
+            },
+            "name": "php - Dynamically display a CSV file as an HTML table on a web page - Stack Overflow",
+            "sync_transaction_version": "471",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/518795/dynamically-display-a-csv-file-as-an-html-table-on-a-web-page"
+         }, {
+            "date_added": "13140085527420358",
+            "id": "174",
+            "meta_info": {
+               "last_visited_desktop": "13140085527420878"
+            },
+            "name": "HTML \u003Cthead> 標簽",
+            "sync_transaction_version": "475",
+            "type": "url",
+            "url": "http://fanli7.net/w3school/tags/tag_thead.html"
+         }, {
+            "date_added": "13140175128529020",
+            "id": "175",
+            "meta_info": {
+               "last_visited_desktop": "13142477965317885"
+            },
+            "name": "10步掌握CSS定位: position static relative absolute float",
+            "sync_transaction_version": "603",
+            "type": "url",
+            "url": "http://www.see-design.com.tw/i/css_position.html"
+         }, {
+            "date_added": "13140231048931530",
+            "id": "176",
+            "meta_info": {
+               "last_visited_desktop": "13140846831328247"
+            },
+            "name": "HTML & CSS Is Hard | A friendly web development tutorial",
+            "sync_transaction_version": "502",
+            "type": "url",
+            "url": "https://internetingishard.com/html-and-css/"
+         }, {
+            "date_added": "13140779827861597",
+            "id": "178",
+            "meta_info": {
+               "last_visited_desktop": "13140779827862104"
+            },
+            "name": "100+ Best jQuery Table Plugin & jQuery Data Grid with Example Demo",
+            "sync_transaction_version": "495",
+            "type": "url",
+            "url": "http://www.jqueryrain.com/example/jquery-tables/page/2/"
+         }, {
+            "date_added": "13140838281161941",
+            "id": "179",
+            "meta_info": {
+               "last_visited_desktop": "13140838281162541"
+            },
+            "name": "jQuery.extend的用法 - 黑暗執行緒",
+            "sync_transaction_version": "499",
+            "type": "url",
+            "url": "http://blog.darkthread.net/post-2009-03-01-jquery-extend.aspx"
+         }, {
+            "date_added": "13140853928260741",
+            "id": "182",
+            "meta_info": {
+               "last_visited_desktop": "13166693948049559"
+            },
+            "name": "googleAnalyticsR - Google Analytics API to R",
+            "sync_transaction_version": "978",
+            "type": "url",
+            "url": "http://code.markedmondson.me/googleAnalyticsR/"
+         }, {
+            "date_added": "13140855451585936",
+            "id": "183",
+            "meta_info": {
+               "last_visited_desktop": "13140855451586489"
+            },
+            "name": "Word Cloud Generator",
+            "sync_transaction_version": "512",
+            "type": "url",
+            "url": "https://www.jasondavies.com/wordcloud/#http://search.twitter.com/search.json?rpp=100&q=%7Bword%7D=open%20data"
+         }, {
+            "date_added": "13140863392498079",
+            "id": "184",
+            "meta_info": {
+               "last_visited_desktop": "13140863392498742"
+            },
+            "name": "构建单页Web应用 · Issue #5 · xufei/blog",
+            "sync_transaction_version": "516",
+            "type": "url",
+            "url": "https://github.com/xufei/blog/issues/5"
+         }, {
+            "date_added": "13140925763034839",
+            "id": "185",
+            "meta_info": {
+               "last_visited_desktop": "13152951327238827"
+            },
+            "name": "GitHub 入门方法有哪些？ - 知乎",
+            "sync_transaction_version": "709",
+            "type": "url",
+            "url": "https://www.zhihu.com/question/29929269"
+         }, {
+            "date_added": "13140927520551348",
+            "id": "186",
+            "meta_info": {
+               "last_visited_desktop": "13155276303072002"
+            },
+            "name": "集中式vs分布式 - 廖雪峰的官方网站",
+            "sync_transaction_version": "754",
+            "type": "url",
+            "url": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374027586935cf69c53637d8458c9aec27dd546a6cd6000"
+         }, {
+            "date_added": "13140936437632003",
+            "id": "187",
+            "meta_info": {
+               "last_visited_desktop": "13153278201764567"
+            },
+            "name": "Adding a new SSH key to your GitHub account - User Documentation",
+            "sync_transaction_version": "721",
+            "type": "url",
+            "url": "https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/"
+         }, {
+            "date_added": "13141095080392064",
+            "id": "188",
+            "meta_info": {
+               "last_visited_desktop": "13150799195929534"
+            },
+            "name": "Dimensions & Metrics Explorer  |  Analytics Reporting API v4  |  Google Developers",
+            "sync_transaction_version": "691",
+            "type": "url",
+            "url": "https://developers.google.com/analytics/devguides/reporting/core/dimsmets"
+         }, {
+            "date_added": "13141102704473947",
+            "id": "189",
+            "meta_info": {
+               "last_visited_desktop": "13141185437686925"
+            },
+            "name": "An Introduction To JavaScript Blobs and File Interface",
+            "sync_transaction_version": "536",
+            "type": "url",
+            "url": "http://qnimate.com/an-introduction-to-javascript-blobs-and-file-interface/"
+         }, {
+            "date_added": "13141789454531163",
+            "id": "192",
+            "meta_info": {
+               "last_visited_desktop": "13141789454531787"
+            },
+            "name": "VisuAlgo - visualising data structures and algorithms through animation",
+            "sync_transaction_version": "560",
+            "type": "url",
+            "url": "https://visualgo.net/en"
+         }, {
+            "date_added": "13141812996724296",
+            "id": "193",
+            "meta_info": {
+               "last_visited_desktop": "13142920000017952"
+            },
+            "name": "特征工程到底是什么？ - 知乎",
+            "sync_transaction_version": "627",
+            "type": "url",
+            "url": "https://www.zhihu.com/question/29316149"
+         }, {
+            "date_added": "13143520377610094",
+            "id": "196",
+            "meta_info": {
+               "last_visited_desktop": "13147517891339355"
+            },
+            "name": "稅則稅率綜合查詢作業(GC411)",
+            "sync_transaction_version": "670",
+            "type": "url",
+            "url": "http://portal.sw.nat.gov.tw/APGQ/GC411"
+         }, {
+            "date_added": "13144823417335048",
+            "id": "199",
+            "meta_info": {
+               "last_visited_desktop": "13144823417353648"
+            },
+            "name": "MySQL 超新手入門（5）JOIN 與 UNION 查詢 by Michael | CodeData",
+            "sync_transaction_version": "647",
+            "type": "url",
+            "url": "http://www.codedata.com.tw/database/mysql-tutorial-5-join-union"
+         }, {
+            "date_added": "13145422044573426",
+            "id": "200",
+            "meta_info": {
+               "last_visited_desktop": "13145934175225920"
+            },
+            "name": "阿旺的 Linux 開竅手冊-sed & awk",
+            "sync_transaction_version": "654",
+            "type": "url",
+            "url": "http://wanggen.myweb.hinet.net/ach3/ach3.html"
+         }, {
+            "date_added": "13146540685091422",
+            "id": "203",
+            "meta_info": {
+               "last_visited_desktop": "13146540685091913"
+            },
+            "name": "AWK 简明教程 | | 酷 壳 - CoolShell",
+            "sync_transaction_version": "660",
+            "type": "url",
+            "url": "http://coolshell.cn/articles/9070.html"
+         }, {
+            "date_added": "13146544633330284",
+            "id": "204",
+            "meta_info": {
+               "last_visited_desktop": "13146544633330753"
+            },
+            "name": "Theming IPython Jupyter Notebooks",
+            "sync_transaction_version": "664",
+            "type": "url",
+            "url": "http://sherifsoliman.com/2016/01/11/theming-ipython-jupyter-notebook/"
+         }, {
+            "date_added": "13146561370872746",
+            "id": "205",
+            "meta_info": {
+               "last_visited_desktop": "13146561370873113"
+            },
+            "name": "RegExr: Learn, Build, & Test RegEx",
+            "sync_transaction_version": "668",
+            "type": "url",
+            "url": "http://regexr.com/"
+         }, {
+            "date_added": "13147779633133736",
+            "id": "208",
+            "meta_info": {
+               "last_visited_desktop": "13147779633134630"
+            },
+            "name": "Python 單元測試（Unit Testing） – 在電梯裡遇見雙胞胎",
+            "sync_transaction_version": "674",
+            "type": "url",
+            "url": "https://imsardine.wordpress.com/tech/unit-testing-in-python/"
+         }, {
+            "date_added": "13148383691748931",
+            "id": "211",
+            "meta_info": {
+               "last_visited_desktop": "13148383691749552"
+            },
+            "name": "数据库_ChinaUnix博客",
+            "sync_transaction_version": "682",
+            "type": "url",
+            "url": "http://blog.chinaunix.net/database.html"
+         }, {
+            "date_added": "13153222317151679",
+            "id": "214",
+            "meta_info": {
+               "last_visited_desktop": "13162612660376336"
+            },
+            "name": "python - How to solve 'module' object has no attribute '_base' issue? - Stack Overflow",
+            "sync_transaction_version": "915",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/43023562/how-to-solve-module-object-has-no-attribute-base-issue"
+         }, {
+            "date_added": "13153279393860929",
+            "id": "216",
+            "meta_info": {
+               "last_visited_desktop": "13153279393861757"
+            },
+            "name": "git - ssh: Could not resolve hostname github.com: Name or service not known; fatal: The remote end hung up unexpectedly - Stack Overflow",
+            "sync_transaction_version": "725",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/9393409/ssh-could-not-resolve-hostname-github-com-name-or-service-not-known-fatal-th"
+         }, {
+            "date_added": "13153545454316531",
+            "id": "218",
+            "meta_info": {
+               "last_visited_desktop": "13153545454317255"
+            },
+            "name": "王爽汇编语言第三版实验 - 小黑龙的窝",
+            "sync_transaction_version": "732",
+            "type": "url",
+            "url": "https://blackdragonf.github.io/2017/03/09/%E7%8E%8B%E7%88%BD%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%89%E7%89%88%E5%AE%9E%E9%AA%8C/"
+         }, {
+            "date_added": "13153887510065342",
+            "id": "221",
+            "meta_info": {
+               "last_visited_desktop": "13153887510066209"
+            },
+            "name": "Using DOSBox to run MASM 8086 on Ubuntu or Windows x64 | Y0u can't have 0ur c0de",
+            "sync_transaction_version": "736",
+            "type": "url",
+            "url": "https://youcanthaveourcode.wordpress.com/2011/07/27/dosbox/"
+         }, {
+            "date_added": "13155092218215667",
+            "id": "225",
+            "meta_info": {
+               "last_visited_desktop": "13155116706782886"
+            },
+            "name": "Fred's ImageMagick Scripts: SHARP",
+            "sync_transaction_version": "751",
+            "type": "url",
+            "url": "http://www.fmwconcepts.com/imagemagick/sharp/index.php"
+         }, {
+            "date_added": "13158295419794336",
+            "id": "232",
+            "meta_info": {
+               "last_visited_desktop": "13158295419794870"
+            },
+            "name": "Documentation — The Hitchhiker's Guide to Python",
+            "sync_transaction_version": "834",
+            "type": "url",
+            "url": "http://docs.python-guide.org/en/latest/writing/documentation/"
+         }, {
+            "date_added": "13160806436413847",
+            "id": "234",
+            "meta_info": {
+               "last_visited_desktop": "13160806436426028"
+            },
+            "name": "程序员技术练级攻略 | | 酷 壳 - CoolShell",
+            "sync_transaction_version": "883",
+            "type": "url",
+            "url": "https://coolshell.cn/articles/4990.html"
+         }, {
+            "date_added": "13161940391141271",
+            "id": "237",
+            "meta_info": {
+               "last_visited_desktop": "13161940391142097"
+            },
+            "name": "Markdown中写数学公式 | 剑紫青天",
+            "sync_transaction_version": "908",
+            "type": "url",
+            "url": "http://jzqt.github.io/2015/06/30/Markdown%E4%B8%AD%E5%86%99%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/"
+         }, {
+            "date_added": "13165032767883178",
+            "id": "239",
+            "meta_info": {
+               "last_visited_desktop": "13165286962035807"
+            },
+            "name": "Parallelism in one line - Blogomatono",
+            "sync_transaction_version": "974",
+            "type": "url",
+            "url": "http://chriskiehl.com/article/parallelism-in-one-line/"
+         }, {
+            "date_added": "13166768252644102",
+            "id": "241",
+            "meta_info": {
+               "last_visited_desktop": "13166768252644627"
+            },
+            "name": "Programmatically searching google in Python using custom search - Stack Overflow",
+            "sync_transaction_version": "991",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search"
+         }, {
+            "date_added": "13167805021488702",
+            "id": "243",
+            "meta_info": {
+               "last_visited_desktop": "13167805021497014"
+            },
+            "name": "基于TF-IDF算法抽取文章关键词",
+            "sync_transaction_version": "1001",
+            "type": "url",
+            "url": "https://zhuanlan.zhihu.com/p/27330205"
+         }, {
+            "date_added": "13167882728373564",
+            "id": "244",
+            "meta_info": {
+               "last_visited_desktop": "13167882728374369"
+            },
+            "name": "從ELK到EFK演進 - 掃文資訊",
+            "sync_transaction_version": "1004",
+            "type": "url",
+            "url": "https://hk.saowen.com/a/7d92e76b51e5acc441201e8960a7b14428e82df6b37b8d67028b7508b1bbf2d6"
+         }, {
+            "date_added": "13168060772986828",
+            "id": "246",
+            "meta_info": {
+               "last_visited_desktop": "13168310963643515"
+            },
+            "name": "机器如何解读语言？中文分词算法你知道几种？",
+            "sync_transaction_version": "1067",
+            "type": "url",
+            "url": "https://zhuanlan.zhihu.com/p/21440794"
+         }, {
+            "date_added": "13169694887584888",
+            "id": "248",
+            "meta_info": {
+               "last_visited_desktop": "13169694887664267"
+            },
+            "name": "十步完全理解 SQL - 文章 - 伯乐在线",
+            "sync_transaction_version": "1027",
+            "type": "url",
+            "url": "http://blog.jobbole.com/55086/"
+         }, {
+            "date_added": "13169705893840101",
+            "id": "249",
+            "meta_info": {
+               "last_visited_desktop": "13169705893840664"
+            },
+            "name": "linux - mysql_config not found when installing mysqldb python interface - Stack Overflow",
+            "sync_transaction_version": "1033",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/7475223/mysql-config-not-found-when-installing-mysqldb-python-interface?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa"
+         }, {
+            "date_added": "13172292185621954",
+            "id": "251",
+            "meta_info": {
+               "last_visited_desktop": "13172306527844530"
+            },
+            "name": "JavaSE6Tutorial/CH20.md at master · JustinSDK/JavaSE6Tutorial",
+            "sync_transaction_version": "1087",
+            "type": "url",
+            "url": "https://github.com/JustinSDK/JavaSE6Tutorial/blob/master/docs/CH20.md"
+         }, {
+            "date_added": "13173168539236704",
+            "id": "253",
+            "meta_info": {
+               "last_visited_desktop": "13173168539237324"
+            },
+            "name": "Re: [問題] 健保轉出？ - 看板 Salary - 批踢踢實業坊",
+            "sync_transaction_version": "1104",
+            "type": "url",
+            "url": "https://www.ptt.cc/bbs/Salary/M.1089341265.A.D5D.html"
+         } ],
+         "date_added": "13124776233701432",
+         "date_modified": "13173840188297201",
+         "id": "1",
+         "name": "書籤列",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13124776233701438",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他書籤",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1121",
+      "synced": {
+         "children": [  ],
+         "date_added": "13124776233701439",
+         "date_modified": "0",
+         "id": "3",
+         "name": "行動版書籤",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
